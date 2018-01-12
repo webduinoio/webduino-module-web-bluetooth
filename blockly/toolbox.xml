@@ -1,0 +1,3 @@
+<category id="catExperimental">
+  <block type="enable_web_bluetooth"></block>
+</category>

@@ -1,0 +1,18 @@
+{
+  "types": [
+    "enable_web_bluetooth"
+  ],
+  "category": "toolbox",
+  "scripts": [
+    "blockly/blocks.js",
+    "blockly/javascript.js"
+  ],
+  "dependencies": [
+    "lib/sweetalert.min.js",
+    "https://webduinoio.github.io/webduino-bluetooth-transport/src/WebBluetoothTransport.js",
+    "WebBluetooth-Blockly.js"
+  ],
+  "msg": "blockly/msg",
+  "blocksMsg": "blockly/msg/blocks",
+  "toolbox": "blockly/toolbox.xml"
+}
